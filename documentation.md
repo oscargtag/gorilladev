@@ -7,6 +7,16 @@ bannable if server-sided. This document is NOT made by or affiliated with Anothe
 
 ``Oscar, Project Lead. Discord: oscar_gtdev``
 
+# Table Of Contents
+Any chapters in plain white text are not done yet.
+- [Mods Classification](#mods-classification)
+  - [Legal Mods](#legal-mods)
+  - [Illegal Mods](#illegal-mods)
+  - [Make Sure Your Mod Is Legal](#make-sure-your-mod-is-legal)
+- [Prerequisites](#prerequisites)
+- [(1) Utilla](#chapter-1-utilla)
+  - [(1.1) Mod Initialization](#chapter-11-mod-initialization)
+
 # Mods Classification
 ## Legal Mods
 Legal mods are mods that do not interfere with the server side of the game. These are client-side only mods that do not give you a competitive advantage.
